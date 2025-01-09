@@ -1,4 +1,4 @@
-# 🚀 40 Days DevOps & Cloud Computing Challenge 🌐
+# 🚀 30 Days DevOps & Cloud Computing Challenge 🌐
 
 Welcome to the **40 Days DevOps & Cloud Computing Challenge**! 🌟  
 This repository is designed to guide you through a **structured learning path** in **DevOps** and **Cloud Computing** over **40 days**. Whether you're a beginner or aiming to level up your skills, this challenge will help you gain **hands-on expertise** in key DevOps tools and Cloud technologies. 
