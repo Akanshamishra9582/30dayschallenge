@@ -39,16 +39,13 @@ This 30-day journey will take you from a beginner to a confident DevOps and Clou
 | Day 20  | Advanced CI/CD                     | Set up a CI/CD pipeline with GitHub Actions.              |
 | Day 25  | CNCF Tool Exploration              | Explore tools like ArgoCD, OpenTelemetry, and Prometheus. |
 | Day 30  | GSoC Proposal Draft                | Prepare a GSoC proposal for CNCF projects.                |
-
-For the **detailed plan**, refer to [roadmap.md](./roadmap.md).  
-
+ 
 ---
 
 ## 💻 **How to Participate**
 
-1. **Fork This Repository**: Start your challenge by forking this repository.  
-2. **Track Your Progress**: Use the [Progress Tracker](./progress_tracker.md).  
-3. **Collaborate with Peers**: Connect with others to share knowledge and experiences.  
+1. **Fork This Repository**: Start your challenge by forking this repository.    
+2. **Collaborate with Peers**: Connect with others to share knowledge and experiences.  
 
 ---
 
@@ -80,19 +77,12 @@ Have ideas for improvement? Found a bug? Open an issue or submit a pull request.
 ## 📣 **Follow Our Journey**
 
 Stay updated and inspired:  
-- **YouTube Shorts**: [DevOps Journey](#)  
-- **Instagram Reels**: [@cloudnativejourney](#)  
+- **YouTube Shorts**: [FunCodeChronicals](#)  
+- **Instagram Reels**: [Akku_miss](#)  
 
 Let’s learn, build, and contribute together! 🌟  
 
 --- 
-
-## ✨ **Contact**
-
-- **Email**: devopsjourney@example.com  
-- **Twitter**: [@devopscloud](#)  
-
----
 
 ## 🔖 **License**
 
